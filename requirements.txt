@@ -1,0 +1,9 @@
+Flask==1.1.2
+flask_httpauth
+python-dateutil
+requests
+datetime
+retrying
+GoogleAppEngineCloudStorageClient==1.9.22.1
+google-cloud-logging
+google-cloud
